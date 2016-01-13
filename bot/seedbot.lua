@@ -224,20 +224,19 @@ function create_config( )
     sudo_users = {70742427,139837032,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[redstormbot - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/mersadred/redstormbot
 
 Admins
-@mersad1313 [Developer]🔵
-@djmjcj [Manager]
+@mersad1313 [Developer]☢♍️
+@djmjcj [Manager]♊️
 Special thanks to
-@cjmjdj🔹🔸
+@djmjcj🔹🔸
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+Our channel
+@redstormch [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -311,7 +310,7 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only admins and sudo can use res, setowner, commands
+*Only admins and sudo can use res, setowner, commands and to create group send 10 stickers to @mersad1313 & @djmjcj
 ]],
     help_text = [[
 Commands list :
@@ -417,7 +416,7 @@ will return group ban list
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands
+*Only owner can use res,setowner,promote,demote and log commands and to create group send 10 stickers to @mersad1313 & @djmjcj
 
 ]]
   }
