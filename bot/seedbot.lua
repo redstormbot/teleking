@@ -310,7 +310,7 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only admins and sudo can use res, setowner, commands and to create group send 10 stickers to @mersad1313 & @djmjcj
+*Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
 Commands list :
@@ -416,7 +416,7 @@ will return group ban list
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands and to create group send 10 stickers to @mersad1313 & @djmjcj
+*Only owner can use res,setowner,promote,demote and log commands
 
 ]]
   }
