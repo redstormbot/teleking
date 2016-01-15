@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {70742427,139837032,0,tonumber(our_id)},--Sudo users
+    sudo_users = {107746299,139837032,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[redstormbot - Open Source
@@ -230,10 +230,8 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/mersadred/redstormbot
 
 Admins
-@mersad1313 [Developer]☢♍️
+@Anonymous_xx [Developer]☢♍️
 @djmjcj [Manager]♊️
-Special thanks to
-@djmjcj🔹🔸
 
 Our channel
 @redstormch [persian]
@@ -315,7 +313,7 @@ This command will send text to [group_id]
     help_text = [[
 Commands list :
 
-!kick [username|id]
+!kick [username|id]Ⓜ️
 You can also do it by reply
 
 !ban [ username|id]
@@ -416,7 +414,7 @@ will return group ban list
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands
+*Only owner can use res,setowner,promote,demote and log commandsⓂ️ 
 
 ]]
   }
