@@ -352,7 +352,7 @@ plugins: Ⓜ️
 
 !settings 🌂
 
-!newlink 🇹🇯k
+!newlink ⚽️
 
 !link 👾
 
