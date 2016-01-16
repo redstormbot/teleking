@@ -415,7 +415,7 @@ will return group ban list
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands for creategroup send 10 sticker to @Anonymous_xx 
+*Only owner can use res,setowner,promote,demote and log commands for creategroup send 10 sticker to @Anonymous_xx or @djmjcj
 
 ]]
   }
