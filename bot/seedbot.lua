@@ -311,7 +311,8 @@ This command will send text to [group_id]
 *Only admins and sudo can use res, setowner, commands for creategroup send 10 sticker to @Anonymous & @djmjcj
 ]],
     help_text = [[
-Commands list :
+redstorm bot Help for mods: ☮
+plugins: Ⓜ️
 
 !kick [username|id] 🎴
 You can also do it by reply
@@ -352,7 +353,7 @@ Group rules
 !id ✳️
 return group id or user id
 
-!help
+!help ⭕️
 
 !lock [member|name|bots|leave] 	🔸
 Locks [member|name|bots|leaveing] 
@@ -406,10 +407,10 @@ will return group logs
 !banlist 🖲
 will return group ban list
 
-**U can use both "/" and "!" 
+**U can use both "/" and "!"  ❎
 
 
-*Only owner and mods can add bots in group
+*Only owner and mods can add bots in group 🔱
 
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
