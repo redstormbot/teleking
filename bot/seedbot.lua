@@ -316,73 +316,107 @@ plugins: Ⓜ️
 
 !kick [username|id] 🎴
 
+
 !ban [ username|id] ☢
+
 
 !unban [id] ☣
 
+
 !who 🔴
+
 
 !modlist 🔶
 
+
 !promote [username] 💥
+
 
 !demote [username] 🖲
 
+
 !kickme ✴️
+
 
 !about ♻️
 
+
 !setphoto 🌪
+
 
 !setname [name] 🈳
 
+
 !rules 🕶
+
 
 !id ✳️
 
+
 !help ⭕️
+
 
 !lock [member|name|bots|leave] 	🔸
 
+
 !unlock [member|name|bots|leave] ☯
+
 
 !set rules <text> 😈
 
+
 !set about <text> ➰
+
 
 !settings 🌂
 
+
 !newlink ⚽️
+
 
 !link 👾
 
+
 !owner 🌋
+
 
 !setowner [id] 🛡
 
+
 !setflood [value] 🔵
+
 
 !stats ➿
 
+
 !save [value] <text> ❇️
+
 
 !get [value] 💰
 
-!clean [modlist|rules|about] ☢
+
+[modlist|rules|about] ☢
+
 
 !res [username] 🈳
+
+
 "!res @username" 💥
+
 
 !log 🎴
 
+
 !banlist 🖲
+
 
 **U can use both "/" and "!"  ❎
 
 
 *Only owner and mods can add bots in group 🔱
 
-* for creategroup send 10 sticker to @Anonymous_xx & @djmjcj
+
+* for creategroup send 10 sticker to @Anonymous_xx & @djmjcj⚠️
 
 ]]
   }
