@@ -221,20 +221,17 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {107746299,139837032,110158203,tonumber(our_id)},--Sudo users
+    sudo_users = {107746299,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[redstormbot - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/mersadred/redstormbot
 
 Admins
 @Anonymous_xx [Developer]☢♍️
-@djmjcj [Manager]♊️
 
-Our channel
-@redstormch [persian]
+
 ]],
     help_text_realm = [[
 Realm Commands:
